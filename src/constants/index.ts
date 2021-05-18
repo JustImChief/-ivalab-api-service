@@ -1,0 +1,6 @@
+export const COMMON_ERROR         = 'COMMON_ERROR';
+export const NOT_AUTHORIZED_ERROR = 'NOT_AUTHORIZED_ERROR';
+export const NOT_FOUND_ERROR      = 'NOT_FOUND_ERROR';
+export const SERVER_ERROR         = 'SERVER_ERROR';
+export const VALIDATION_ERROR     = 'VALIDATION_ERROR';
+export const WRONG_RESPONSE_ERROR = 'WRONG_RESPONSE_ERROR';
