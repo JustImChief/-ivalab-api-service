@@ -1,10 +1,10 @@
+import { AxiosRequestConfig, AxiosResponse }                                  from 'axios';
 import { default as AbstractApiService, RequestService, RequestServiceError } from 'ts-axios-api-service';
 import type { Callback }                                                      from 'ts-axios-api-service';
 import { LocalStorageService, SessionStorageService }                         from 'ts-storage-service';
 import { dispatch }                                                           from 'ts-react-redux-store';
 
 import { default as ResponseService, ResponseServiceError } from './ResponseService';
-import { AxiosRequestConfig, AxiosResponse }                from 'axios';
 
 class ApiService extends AbstractApiService {
   dispatch = dispatch;
