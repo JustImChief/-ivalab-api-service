@@ -1,6 +1,6 @@
 {
   "name": "ivalab-api-service",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "React API service",
   "main": "src/index.ts",
   "module": "lib-esm/index.js",
