@@ -33,7 +33,7 @@
   "homepage": "https://github.com/JustImChief/ivalab-api-service#readme",
   "dependencies": {
     "ts-axios-api-service": "^1.0.4",
-    "ts-react-redux-store": "^1.0.17",
+    "ts-react-redux-store": "^1.1.0",
     "ts-storage-service": "^1.0.0"
   },
   "devDependencies": {
